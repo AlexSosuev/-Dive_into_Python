@@ -1,0 +1,879 @@
+[
+    {
+        "parameters": [
+            432,
+            124,
+            880
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            223,
+            707,
+            973
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            918,
+            139,
+            438
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            990,
+            498,
+            672
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            502,
+            275,
+            601
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            635,
+            806,
+            728
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            156,
+            879,
+            687
+        ],
+        "result": [
+            -0.9375799249727678,
+            -4.697035459642617
+        ]
+    },
+    {
+        "parameters": [
+            540,
+            26,
+            981
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            313,
+            429,
+            670
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            817,
+            242,
+            201
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            782,
+            141,
+            102
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            218,
+            59,
+            496
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            493,
+            616,
+            266
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            274,
+            502,
+            243
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            873,
+            598,
+            335
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            486,
+            615,
+            456
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            962,
+            964,
+            401
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            692,
+            250,
+            870
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            471,
+            990,
+            603
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            82,
+            787,
+            910
+        ],
+        "result": [
+            -1.3446911440664928,
+            -8.252869831543263
+        ]
+    },
+    {
+        "parameters": [
+            521,
+            755,
+            687
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            740,
+            534,
+            423
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            329,
+            187,
+            27
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            2,
+            589,
+            925
+        ],
+        "result": [
+            -1.578923598402696,
+            -292.9210764015973
+        ]
+    },
+    {
+        "parameters": [
+            495,
+            809,
+            750
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            106,
+            256,
+            629
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            476,
+            313,
+            549
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            7,
+            825,
+            706
+        ],
+        "result": [
+            -0.8620631147843645,
+            -116.99507974235848
+        ]
+    },
+    {
+        "parameters": [
+            242,
+            725,
+            243
+        ],
+        "result": [
+            -0.3845275387427185,
+            -2.6113402298523227
+        ]
+    },
+    {
+        "parameters": [
+            394,
+            620,
+            981
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            262,
+            556,
+            387
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            179,
+            933,
+            997
+        ],
+        "result": [
+            -1.500631493389693,
+            -3.7116590094036033
+        ]
+    },
+    {
+        "parameters": [
+            88,
+            361,
+            815
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            885,
+            959,
+            969
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            168,
+            126,
+            184
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            880,
+            541,
+            951
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            845,
+            264,
+            888
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            382,
+            942,
+            111
+        ],
+        "result": [
+            -0.12407746616448302,
+            -2.3418911202229515
+        ]
+    },
+    {
+        "parameters": [
+            669,
+            187,
+            33
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            841,
+            541,
+            50
+        ],
+        "result": [
+            -0.11187951825167113,
+            -0.5314022891205048
+        ]
+    },
+    {
+        "parameters": [
+            551,
+            662,
+            591
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            170,
+            154,
+            601
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            590,
+            502,
+            570
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            344,
+            739,
+            722
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            830,
+            265,
+            105
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            746,
+            465,
+            385
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            809,
+            933,
+            645
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            433,
+            883,
+            26
+        ],
+        "result": [
+            -0.02988297347789383,
+            -2.0093779964990115
+        ]
+    },
+    {
+        "parameters": [
+            957,
+            498,
+            315
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            264,
+            42,
+            820
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            26,
+            330,
+            747
+        ],
+        "result": [
+            -2.9486695697687404,
+            -9.743638122538952
+        ]
+    },
+    {
+        "parameters": [
+            909,
+            213,
+            236
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            281,
+            344,
+            729
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            505,
+            471,
+            86
+        ],
+        "result": [
+            -0.24914357163441836,
+            -0.6835296956923144
+        ]
+    },
+    {
+        "parameters": [
+            964,
+            326,
+            728
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            843,
+            756,
+            255
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            979,
+            430,
+            271
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            970,
+            880,
+            751
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            165,
+            800,
+            157
+        ],
+        "result": [
+            -0.20491005166241008,
+            -4.643574796822438
+        ]
+    },
+    {
+        "parameters": [
+            601,
+            173,
+            826
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            134,
+            262,
+            850
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            420,
+            61,
+            156
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            485,
+            284,
+            461
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            501,
+            340,
+            647
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            164,
+            455,
+            407
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            116,
+            350,
+            579
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            237,
+            163,
+            282
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            923,
+            187,
+            121
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            536,
+            542,
+            87
+        ],
+        "result": [
+            -0.20012212452417,
+            -0.8110719053265762
+        ]
+    },
+    {
+        "parameters": [
+            242,
+            164,
+            837
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            230,
+            30,
+            165
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            183,
+            950,
+            580
+        ],
+        "result": [
+            -0.7067430394209508,
+            -4.484513791180142
+        ]
+    },
+    {
+        "parameters": [
+            231,
+            480,
+            159
+        ],
+        "result": [
+            -0.41355848686574,
+            -1.664363591056338
+        ]
+    },
+    {
+        "parameters": [
+            966,
+            908,
+            291
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            227,
+            497,
+            761
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            774,
+            50,
+            222
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            57,
+            665,
+            609
+        ],
+        "result": [
+            -1.0018152228982713,
+            -10.664851443768397
+        ]
+    },
+    {
+        "parameters": [
+            657,
+            888,
+            316
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            24,
+            379,
+            624
+        ],
+        "result": [
+            -1.8672195600204518,
+            -13.924447106646214
+        ]
+    },
+    {
+        "parameters": [
+            209,
+            262,
+            747
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            13,
+            339,
+            900
+        ],
+        "result": [
+            -3.0,
+            -23.076923076923077
+        ]
+    },
+    {
+        "parameters": [
+            23,
+            302,
+            958
+        ],
+        "result": [
+            -5.361097180510763,
+            -7.769337602097933
+        ]
+    },
+    {
+        "parameters": [
+            666,
+            385,
+            430
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            349,
+            937,
+            267
+        ],
+        "result": [
+            -0.3240684051063817,
+            -2.36074534847528
+        ]
+    },
+    {
+        "parameters": [
+            506,
+            25,
+            429
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            372,
+            636,
+            764
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            474,
+            117,
+            9
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            967,
+            431,
+            997
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            888,
+            328,
+            226
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            818,
+            458,
+            907
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            38,
+            586,
+            870
+        ],
+        "result": [
+            -1.6642481858671718,
+            -13.756804445711776
+        ]
+    },
+    {
+        "parameters": [
+            375,
+            182,
+            865
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            835,
+            648,
+            922
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            715,
+            791,
+            137
+        ],
+        "result": [
+            -0.21497079021827345,
+            -0.8913229160754328
+        ]
+    },
+    {
+        "parameters": [
+            704,
+            764,
+            918
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            444,
+            351,
+            169
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            2,
+            493,
+            983
+        ],
+        "result": [
+            -2.0103097166608563,
+            -244.48969028333914
+        ]
+    },
+    {
+        "parameters": [
+            846,
+            823,
+            565
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            737,
+            63,
+            31
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            831,
+            230,
+            437
+        ],
+        "result": null
+    },
+    {
+        "parameters": [
+            402,
+            780,
+            577
+        ],
+        "result": null
+    }
+]
